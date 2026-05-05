@@ -49,8 +49,7 @@ A modern global retail sales dashboard tracking product performance and category
 - DAX (Data Analysis Expressions)
 
 ---
-Created by-
-Muskan Tak
 
-## 👤 Created By
-[Your Name Here]
+
+## Created By
+[Muskan Tak]
